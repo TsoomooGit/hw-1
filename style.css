@@ -182,4 +182,14 @@ a {
     } .sample-img {
     background-color: #8ac4ff;
   }
+  .section aside h1 {
+   
+
+    margin-left: 10px;
+  
+  }
+  .section-3 aside h1 {
+  
+    margin-left: 0px;
+  }
 }
