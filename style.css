@@ -168,3 +168,18 @@ a {
     height: 1300px;
   }
 }
+
+/* Small smartphones - image placeholders change color */
+@media screen and (max-width: 576px) {
+  .image-2-container img {
+      width: 100%;
+    }
+    #image-1 img {
+      width: 100%;
+    }
+    #border-work {
+      height: 1300px;
+    } .sample-img {
+    background-color: #8ac4ff;
+  }
+}
